@@ -1,4 +1,4 @@
-# stats
+# Hello
 [![Github](https://img.shields.io/github/followers/LawrenceEgr?label=Follow&style=social)](https://github.com/LawrenceEgr)
 [![Mail](https://img.shields.io/badge/-LawrenceEgr-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:lawrencelangatmi@gmail.com)
 

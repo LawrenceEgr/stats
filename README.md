@@ -1,7 +1,7 @@
 
 
 <!-- ![My Profile](me.jpg?raw=true "My Profile")  -->
-<img src="me.jpg" height="60" width="60" >
+<img src="me.jpg" height="100" width="100" border-radius="50%">
 
 
 

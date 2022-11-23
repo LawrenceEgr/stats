@@ -1,4 +1,10 @@
+
+<div style="width:40px ; height:40px">
+
 [![My Profile](me.jpg?raw=true "My Profile")]
+<div>
+
+
 # Hello I am Lawrence Langat a mechatronic🤖 and software Engineer🖥️ 
 [![Github](https://img.shields.io/github/followers/LawrenceEgr?label=Follow&style=social)](https://github.com/lawrenceegr)
 [![Mail](https://img.shields.io/badge/-LawrenceEgr-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:lawrencelangatmi@gmail.com)

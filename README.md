@@ -1,11 +1,11 @@
 
-
+# Hello 👋 I am Lawrence Langat a mechatronic🤖 and software Engineer🖥️
 <!-- ![My Profile](me.jpg?raw=true "My Profile")  -->
-<img src="me.jpg" style =" height:100 ; width=100; border-radius:50%"/>
+<img src="me.jpg" height="100" width="100" border-radius="50%">
 
 
 
-# Hello I am Lawrence Langat a mechatronic🤖 and software Engineer🖥️ 
+ 
 [![Github](https://img.shields.io/github/followers/LawrenceEgr?label=Follow&style=social)](https://github.com/lawrenceegr)
 [![Mail](https://img.shields.io/badge/-LawrenceEgr-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:lawrencelangatmi@gmail.com)
 

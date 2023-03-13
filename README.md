@@ -3,7 +3,7 @@
 <!-- ![My Profile](me.jpg?raw=true "My Profile")  -->
 <!-- <img src="me.jpg" height="80" width="80" border-radius="50%"> -->
 
-
+![](https://komarev.com/ghpvc/?username=lawrenceegr)
 
  
 [![Github](https://img.shields.io/github/followers/LawrenceEgr?label=Follow&style=social)](https://github.com/lawrenceegr)

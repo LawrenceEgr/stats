@@ -1,5 +1,5 @@
 
-# Hello 👋 I am Lawrence Langat a mechatronic🤖 and software Engineer🖥️
+# Hello 👋 I am Lawrence Langat a mechatronic engineer🤖 and software developer🖥️
 <!-- ![My Profile](me.jpg?raw=true "My Profile")  -->
 <!-- <img src="me.jpg" height="80" width="80" border-radius="50%"> -->
 
